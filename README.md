@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmanuelSolver
-- 👀 I’m interested in programming especially the bit on Artificial Intelligence
+- 💯 Currently working as a freelance web developer. I'm using Django Framework and also I'm a SERN stack developer 
 - 🌱 I’m currently learning data analysis tending towards machine learning which is a branch of artificial intelligence
-- 💞️ I’m looking to collaborate on projects involving analysis of data 
+- 💞️ I’m looking to collaborate on projects involving web-development and analysis of data 
 - 📫 How to reach me is via emanuelmutuiri@gmail.com
 
 <!---
